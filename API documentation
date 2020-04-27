@@ -1,0 +1,10 @@
+Response Body
+{
+  "statusCode": 200,
+  "headers": {
+    "Access-Control-Allow-Orgin": "*"
+  },
+  "body": "\"Hello from Lambda!\""
+}
+Response Headers
+{"Access-Control-Allow-Origin":"*","X-Amzn-Trace-Id":"Root=1-5ea6e5b3-07f2ee17e87d811ed503ce02;Sampled=0","Content-Type":"application/json"}
